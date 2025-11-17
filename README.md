@@ -85,6 +85,22 @@ Delay (X minutes)
 
 ---
 
+## Step by Step Picture wise
+ ![Sheet Setup Demo](image0_1.png)
+ ![Sheet Setup Demo](image1.png)
+ ![Sheet Setup Demo](image2.png)
+ ![Sheet Setup Demo](image3.png)
+ ![Sheet Setup Demo](image4.png)
+ ![Sheet Setup Demo](image5.png)
+ ![Sheet Setup Demo](image6.png)
+ ![Sheet Setup Demo](image7.png)
+
+
+
+
+
+
+
 ## 🎯 Use Cases
 
 - Sending personalized job applications
