@@ -109,12 +109,6 @@ Feel free to fork this repository and submit pull requests with improvements or 
 
 ---
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
 **Created by Nikhil Airsang** | [GitHub](https://github.com/Nikhil414) | [LinkedIn](https://www.linkedin.com/in/nikhilairsang)
 
 *⭐ If you find this helpful, please star the repository!*
